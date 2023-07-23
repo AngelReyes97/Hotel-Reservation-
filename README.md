@@ -2,7 +2,7 @@
 
 Instructions:
 
-1. Mircosoft Visual Stuoids Installed.
+1. Mircosoft Visual Studios Installed.
 2. Open Visual Studios.
 3. **IMPORATNT** one extension REQUIRED
    a. Tools -> NUGet Package Manager -> Manage NUGet Packages for Solution
